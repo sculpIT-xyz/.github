@@ -1,0 +1,10 @@
+cff-version: 0.1.0
+message: "If you use contents from this account, please cite the content with its specific citation in the appropriate folder."
+authors:
+  - family-names: Leocadio
+    given-names: Paulo H.
+    orcid: https://orcid.org/0000-0002-4992-4541
+title: "Sample Citation for all content within this account"
+version: 2.0.4
+doi: 
+date-released: 2023-06-01
